@@ -7,3 +7,7 @@ function grand_sunrise_enqueue_styles() {
 		get_stylesheet_uri()
 	);
 }
+
+add_action('after_setup_theme', function () {
+    add_theme_support('block-patterns');
+});

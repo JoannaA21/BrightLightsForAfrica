@@ -1,0 +1,183 @@
+{
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"color": "#741443",
+					"name": "Maroon",
+					"slug": "custom-maroon"
+				},
+				{
+					"color": "#f8ac1c",
+					"name": "Sun",
+					"slug": "custom-sun"
+				},
+				{
+					"color": "#d1d1d6",
+					"name": "Gray",
+					"slug": "custom-gray"
+				},
+				{
+					"color": "#e77526",
+					"name": "Zest",
+					"slug": "custom-zest"
+				},
+				{
+					"color": "#b884a433",
+					"name": "Boquet",
+					"slug": "custom-boquet"
+				},
+				{
+					"color": "#000",
+					"name": "Color 4",
+					"slug": "custom-color-4"
+				}
+			]
+		},
+		"layout": {
+			"wideSize": "1000px"
+		},
+		"typography": {
+			"fontFamilies": [
+				{
+					"fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif",
+					"name": "System Font",
+					"slug": "system-font"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "normal",
+							"fontWeight": "100",
+							"src": "http://localhost/wordpress-6.7.1/wordpress/wp-content/uploads/fonts/pxiGyp8kv8JHgFVrLPTecnFBGPaTSQ.woff2"
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "normal",
+							"fontWeight": "200",
+							"src": "http://localhost/wordpress-6.7.1/wordpress/wp-content/uploads/fonts/pxiByp8kv8JHgFVrLFj_V15vFP-KUEg.woff2"
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "normal",
+							"fontWeight": "300",
+							"src": "http://localhost/wordpress-6.7.1/wordpress/wp-content/uploads/fonts/pxiByp8kv8JHgFVrLDz8V15vFP-KUEg.woff2"
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": "http://localhost/wordpress-6.7.1/wordpress/wp-content/uploads/fonts/pxiEyp8kv8JHgFVrFJXUc1NECPY.woff2"
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "normal",
+							"fontWeight": "500",
+							"src": "http://localhost/wordpress-6.7.1/wordpress/wp-content/uploads/fonts/pxiByp8kv8JHgFVrLGT9V15vFP-KUEg.woff2"
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "normal",
+							"fontWeight": "600",
+							"src": "http://localhost/wordpress-6.7.1/wordpress/wp-content/uploads/fonts/pxiByp8kv8JHgFVrLEj6V15vFP-KUEg.woff2"
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "normal",
+							"fontWeight": "700",
+							"src": "http://localhost/wordpress-6.7.1/wordpress/wp-content/uploads/fonts/pxiByp8kv8JHgFVrLCz7V15vFP-KUEg.woff2"
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "normal",
+							"fontWeight": "800",
+							"src": "http://localhost/wordpress-6.7.1/wordpress/wp-content/uploads/fonts/pxiByp8kv8JHgFVrLDD4V15vFP-KUEg.woff2"
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "normal",
+							"fontWeight": "900",
+							"src": "http://localhost/wordpress-6.7.1/wordpress/wp-content/uploads/fonts/pxiByp8kv8JHgFVrLBT5V15vFP-KUEg.woff2"
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "italic",
+							"fontWeight": "100",
+							"src": "http://localhost/wordpress-6.7.1/wordpress/wp-content/uploads/fonts/pxiAyp8kv8JHgFVrJJLmE3tAOvODSVFF.woff2"
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "italic",
+							"fontWeight": "200",
+							"src": "http://localhost/wordpress-6.7.1/wordpress/wp-content/uploads/fonts/pxiDyp8kv8JHgFVrJJLmv1plFd2PQEhcqw.woff2"
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "italic",
+							"fontWeight": "300",
+							"src": "http://localhost/wordpress-6.7.1/wordpress/wp-content/uploads/fonts/pxiDyp8kv8JHgFVrJJLm21llFd2PQEhcqw.woff2"
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "italic",
+							"fontWeight": "400",
+							"src": "http://localhost/wordpress-6.7.1/wordpress/wp-content/uploads/fonts/pxiGyp8kv8JHgFVrJJLecnFBGPaTSQ.woff2"
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "italic",
+							"fontWeight": "500",
+							"src": "http://localhost/wordpress-6.7.1/wordpress/wp-content/uploads/fonts/pxiDyp8kv8JHgFVrJJLmg1hlFd2PQEhcqw.woff2"
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "italic",
+							"fontWeight": "600",
+							"src": "http://localhost/wordpress-6.7.1/wordpress/wp-content/uploads/fonts/pxiDyp8kv8JHgFVrJJLmr19lFd2PQEhcqw.woff2"
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "italic",
+							"fontWeight": "700",
+							"src": "http://localhost/wordpress-6.7.1/wordpress/wp-content/uploads/fonts/pxiDyp8kv8JHgFVrJJLmy15lFd2PQEhcqw.woff2"
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "italic",
+							"fontWeight": "800",
+							"src": "http://localhost/wordpress-6.7.1/wordpress/wp-content/uploads/fonts/pxiDyp8kv8JHgFVrJJLm111lFd2PQEhcqw.woff2"
+						},
+						{
+							"fontFamily": "Poppins",
+							"fontStyle": "italic",
+							"fontWeight": "900",
+							"src": "http://localhost/wordpress-6.7.1/wordpress/wp-content/uploads/fonts/pxiDyp8kv8JHgFVrJJLm81xlFd2PQEhcqw.woff2"
+						}
+					],
+					"fontFamily": "Poppins, sans-serif",
+					"name": "Poppins",
+					"slug": "poppins"
+				}
+			]
+		}
+	},
+	"styles": {
+		"blocks": {
+			"core/navigation": {
+				"spacing": {
+					"blockGap": "var(--wp--preset--spacing--50)"
+				},
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--poppins)",
+					"lineHeight": "1"
+				}
+			}
+		},
+		"typography": {
+			"fontFamily": "var(--wp--preset--font-family--poppins)"
+		}
+	},
+	"version": 3,
+	"$schema": "https://schemas.wp.org/wp/6.7/theme.json"
+}
